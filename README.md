@@ -1,7 +1,7 @@
 # HR-Analytics
 Objective
 - This study is done to demonstrate how EDA can be used in a real-world business situation.
-- In this study, objective is to identify the best source of recruitment for a client (tech startup), based on previous data of candidate sources and recruitment strategies.
+- Objective is to identify the best source of recruitment for a client (tech startup), based on previous data of candidate sources and recruitment strategies.
 
 <img width="658" alt="image" src="https://github.com/user-attachments/assets/385ee7cd-1ded-47f2-a245-1f2a7224ee5b">
 
